@@ -23,7 +23,7 @@
 #  filtering not application filtering please use squid for filtering.
 #  Basic Firewall Script based on Linux Firewalls from  Michael Rash (mbr@cipherdyne.org)
 #  Blacklist from n0where.com and Oskar Andreasson from Iptables Tutorial fame Secure mode
-#  is based on      work 
+#  is based on a github project.
 #  Thank You all as was said before (in the man pages of ipset) I stand on he shoulders of
 #  gaints as all of open source.   
 #  License (GNU Public License):
